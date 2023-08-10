@@ -4,6 +4,21 @@ body
 }
 img
 {
-  width:30%;
-  height:35%;
+  width:40%;
+  height:80%;
+}
+#top
+{
+  width:100%;
+  height:20%;
+}
+#middle-text
+{
+  width:100%;
+  height:50%;
+}
+#bottom
+{
+  width:100%;
+  height:30%;
 }
